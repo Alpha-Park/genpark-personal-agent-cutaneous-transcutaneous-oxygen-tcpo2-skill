@@ -1,0 +1,24 @@
+{
+  "name": "genpark-personal-agent-cutaneous-transcutaneous-oxygen-tcpo2-skill",
+  "version": "1.0.0",
+  "description": "Calculates Transcutaneous Oxygen Pressure (tcPO2 in mmHg) and Regional Perfusion Index (RPI) to assess microvascular ischemic tissue viability and wound healing potential.",
+  "author": "GenPark Ecosystem",
+  "license": "Apache-2.0",
+  "keywords": [
+    "personal-agent",
+    "openclaw",
+    "genpark",
+    "mcp",
+    "mcp-server",
+    "dermatology",
+    "vascular",
+    "tcpo2",
+    "microcirculation",
+    "ischemia",
+    "wound-healing",
+    "clti",
+    "zero-dependency"
+  ],
+  "main": "client.py",
+  "mcp_server": "mcp_server.py"
+}
